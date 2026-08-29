@@ -25,7 +25,6 @@ To build a strong foundation in web development and create responsive, interacti
 
 
 Tanaya Dinesh
-
 B.Tech CSE Student
 
 ⭐ *Learning • Building • Growing*
